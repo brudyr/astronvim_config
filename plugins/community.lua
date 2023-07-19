@@ -7,5 +7,6 @@ return {
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.editing-support.multicursors-nvim" },
   { import = "astrocommunity.indent.indent-blankline-nvim" },
+  { import = "astrocommunity.motion.mini-move" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
