@@ -8,5 +8,6 @@ return {
   { import = "astrocommunity.editing-support.multicursors-nvim" },
   { import = "astrocommunity.indent.indent-blankline-nvim" },
   { import = "astrocommunity.motion.mini-move" },
+  { import = "astrocommunity.editing-support.todo-comments-nvim" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
